@@ -5,14 +5,11 @@
 }
 html {
   font-family: "Montserrat", sans-serif;
-  
 }
 body {
-  background: #eee ;
+  background: #eee;
   padding: 0 16px;
-  background-color: #008a6e;
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
-
+  background-image: url("https://www.transparenttextures.com/patterns/cutcube.png");
 }
 
 header {
